@@ -1,0 +1,5 @@
+Ajax calls to these places, head requests:
+filepicker.io
+api.filepicker.io/v1/filepicker.js
+
+make a filepicker.pick to the excel with the data
